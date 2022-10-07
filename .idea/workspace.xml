@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="File structure">
-      <change afterPath="$PROJECT_DIR$/Labo 3/Homepage/Images/Hubbe.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Homepage/index.html" afterDir="false" />
     </list>
@@ -77,7 +76,7 @@
       <workItem from="1664978552030" duration="777000" />
       <workItem from="1665050948057" duration="4161000" />
       <workItem from="1665144264133" duration="66000" />
-      <workItem from="1665154985639" duration="6286000" />
+      <workItem from="1665154985639" duration="7071000" />
     </task>
     <task id="LOCAL-00001" summary="File structure">
       <created>1664978604277</created>
@@ -261,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665160673497</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="File structure">
+      <created>1665161572189</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665161572189</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
