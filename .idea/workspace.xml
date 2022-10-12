@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="File structure">
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/Hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/Images/Hubbe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/Images/LOTR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/Images/PPC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/Likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/Opdracht_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,49 +33,68 @@
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Labo 3/Homepage/index.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FiSiWnTyuAPKJqb9cVKi996ldp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment/Labo 3/Homepage/Images&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment/Labo 4/Opdracht 5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 4\Opdracht 5" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 3\Homepage\Images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 3\Homepage\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="Homepage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht 5/Homepage.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Opdracht_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 3/Homepage/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht 5/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Homepage.html" />
+        <item itemvalue="JavaScript Debug.Opdracht_1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -86,6 +115,7 @@
       <workItem from="1665154985639" duration="8576000" />
       <workItem from="1665166022093" duration="108000" />
       <workItem from="1665312708265" duration="2149000" />
+      <workItem from="1665577576014" duration="4176000" />
     </task>
     <task id="LOCAL-00001" summary="File structure">
       <created>1664978604277</created>
@@ -360,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665314683349</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="File structure">
+      <created>1665577760377</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1665577760377</updated>
+    </task>
+    <task id="LOCAL-00041" summary="File structure">
+      <created>1665577775174</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665577775174</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
