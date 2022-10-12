@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    position: relative;
+}
+ul {
+    background-color: white;
+    height: 500px;
+}
+a {
+    text-decoration: none;
+    color: purple;
+}
+.cirkel {
+    background-color: red;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 0%;
+    left: 0px;
+    z-index: -9999;
+}
