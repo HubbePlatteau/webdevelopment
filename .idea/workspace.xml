@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="File structure">
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Validator toegepast op labo 4">
+      <change afterPath="$PROJECT_DIR$/Labo_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/labo_5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_5/opdracht_7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -64,29 +74,29 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 3\Homepage\Images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Homepage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht 5/Homepage.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.opdracht_1.html">
+    <configuration name="Likes.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht 5/Likes.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 3/Homepage/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 3/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/Opdracht 5/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_5/opdracht_6/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="opdracht_1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_5/opdracht_1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.opdracht_1.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.Likes.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.Homepage.html" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +120,10 @@
       <workItem from="1665577576014" duration="5161000" />
       <workItem from="1665593019191" duration="376000" />
       <workItem from="1665747464728" duration="104000" />
+      <workItem from="1665826364711" duration="579000" />
+      <workItem from="1665926109626" duration="30000" />
+      <workItem from="1666185046944" duration="1928000" />
+      <workItem from="1666187009663" duration="4864000" />
     </task>
     <task id="LOCAL-00001" summary="File structure">
       <created>1664978604277</created>
@@ -419,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665593392978</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Validator toegepast op labo 4">
+      <created>1665826610164</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1665826610164</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,6 +459,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="File structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="File structure" />
+    <MESSAGE value="Validator toegepast op labo 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validator toegepast op labo 4" />
   </component>
 </project>
