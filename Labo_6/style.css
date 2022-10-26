@@ -1,19 +1,3 @@
-
-.cirkel {
-
-    height: 250px;
-    width: 250px;
-    border-radius: 50%;
-    position: absolute;
-    bottom: 2px;
-    left: 50px;
-    z-index: 2;
-    background-image: linear-gradient(to top, red, yellow);
-}
-.customIndent {
-    padding-left: 30px;
-}
-
 @keyframes move_wave {
     0% {
         transform: translateX(0) translateZ(0) scaleY(1)
@@ -33,8 +17,8 @@
     top: 0;
     margin: auto;
     z-index: -99;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
 }
 .waveWrapperInner {
     position: absolute;
@@ -42,7 +26,7 @@
     overflow: hidden;
     height: 100%;
     bottom: -1px;
-    background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
+    background-image: linear-gradient(to top, green 20%, #27273c 80%);
 }
 .bgTop {
     z-index: 15;
@@ -92,32 +76,22 @@
 .voorgrond h1{
     display: flex;
     justify-content: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: white;
 }
-.voorgrond li{
+.voorgrond li {
     display: flex;
     justify-content: center;
 }
-ul a:hover{
-    color: aqua;
-    transition: 1.3s;
-}
-body {
-    position: relative;
-    margin: 0;
-}
-h1{
-    color: white;
-    font-family: monospace;
-    font-size: 30px;
-    margin: 0;
-}
-ul {
-    height: 500px;
-    color: white;
-}
-a {
+ul a{
     text-decoration: none;
     color: white;
     font-family: monospace;
-    font-size: 25px;
+    font-size:25px ;
+    padding: 20px;
+}
+ul a:hover{
+    color: darkred;
+    transition: 1.3s;
 }

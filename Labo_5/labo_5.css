@@ -2,8 +2,8 @@
 
 .lijst li:nth-child(2n+0) {
     margin: 15px;
-
 }
+
 
 @keyframes move_wave {
     0% {
@@ -80,7 +80,14 @@
     z-index: 50;
     background-color: transparent;
 }
-.voorgrond li{
+.voorgrond h1{
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: white;
+}
+.voorgrond li {
     display: flex;
     justify-content: center;
 }
@@ -91,7 +98,7 @@ ul a{
     font-size:25px ;
     padding: 20px;
 }
-ul a:hover{
+ul a:hover {
     color: #86377b;
     transition: 1.3s;
 }
