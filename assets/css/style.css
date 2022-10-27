@@ -1,3 +1,4 @@
+@import "./reset.css";
 
 .cirkel {
 
@@ -42,7 +43,6 @@
     overflow: hidden;
     height: 100%;
     bottom: -1px;
-    background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
 }
 .bgTop {
     z-index: 15;
@@ -97,6 +97,19 @@
     display: flex;
     justify-content: center;
 }
+
+.backgroundPurple .waveWrapperInner {
+    background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
+}
+
+.backgroundBlue .waveWrapperInner {
+    background-image: linear-gradient(to top, cadetblue 20%, #27273c 80%);
+}
+
+.backgroundGreen .waveWrapperInner {
+    background-image: linear-gradient(to top, green 20%, #27273c 80%);
+}
+
 ul a:hover{
     color: aqua;
     transition: 1.3s;
@@ -109,12 +122,17 @@ h1{
     color: white;
     font-family: monospace;
     font-size: 30px;
-    margin: 0;
+    margin: 2rem 0 ;
 }
 ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
     height: 500px;
     color: white;
 }
+
+
 a {
     text-decoration: none;
     color: white;
