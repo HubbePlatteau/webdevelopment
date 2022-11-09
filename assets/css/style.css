@@ -109,6 +109,9 @@
 .backgroundGreen .waveWrapperInner {
     background-image: linear-gradient(to top, green 20%, #27273c 80%);
 }
+.backgroundRed .waveWrapperInner {
+    background-image: linear-gradient(to top, red 20%, #27273c 80%);
+}
 
 ul a:hover{
     color: aqua;

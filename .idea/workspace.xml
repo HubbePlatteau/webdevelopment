@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="labo 6 css">
-      <change afterPath="$PROJECT_DIR$/assets/css/reset.css" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="algemene css">
+      <change afterPath="$PROJECT_DIR$/Labo_7/Homepage/Homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/Opdracht_NatureBlog/CSS/StyleNatureBlog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/Opdracht_NatureBlog/NatureBlog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/Opdracht_NatureBlog/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/labo_5.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/opdracht_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/opdracht_3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/opdracht_3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_6/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -73,24 +71,24 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 4\Opdracht 5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_7\Opdracht_NatureBlog\images" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets\css" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_6\Opdracht_6\images" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_6\Opdracht_5\images" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_6\Opdracht_3" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo 3\Homepage\Images" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="NatureBlog.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_7/Opdracht_NatureBlog/NatureBlog.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Opdracht_4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_6/Opdracht_4/Opdracht_4.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Opdracht_5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_6/Opdracht_5/Opdracht_5.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Opdracht_6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_6/Opdracht_6/Opdracht_6.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_6/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_7/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
@@ -99,10 +97,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.NatureBlog.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.Opdracht_4.html" />
-        <item itemvalue="JavaScript Debug.Opdracht_6.html" />
-        <item itemvalue="JavaScript Debug.Opdracht_5.html" />
       </list>
     </recent_temporary>
   </component>
@@ -133,14 +131,8 @@
       <workItem from="1666716646648" duration="510000" />
       <workItem from="1666772849394" duration="12093000" />
       <workItem from="1666792426732" duration="4106000" />
-      <workItem from="1666869274358" duration="1418000" />
-    </task>
-    <task id="LOCAL-00004" summary="File structure">
-      <created>1665051165980</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665051165980</updated>
+      <workItem from="1666869274358" duration="2054000" />
+      <workItem from="1668000145797" duration="5143000" />
     </task>
     <task id="LOCAL-00005" summary="File structure">
       <created>1665051472988</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666798550825</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="algemene css">
+      <created>1666885601586</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1666885601586</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,6 +502,7 @@
     <MESSAGE value="labo 5 opdracht 6 aangepast" />
     <MESSAGE value="labo 6 afgemaakt" />
     <MESSAGE value="labo 6 css" />
-    <option name="LAST_COMMIT_MESSAGE" value="labo 6 css" />
+    <MESSAGE value="algemene css" />
+    <option name="LAST_COMMIT_MESSAGE" value="algemene css" />
   </component>
 </project>
