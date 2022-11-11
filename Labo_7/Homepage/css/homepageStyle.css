@@ -1,0 +1,56 @@
+body {
+    margin: 0 auto;
+    width: 1200px
+}
+
+.noButton li {
+    list-style-type: none;
+}
+
+body {
+    background-image: linear-gradient(to top, dodgerblue 20%, lightblue 80%);
+}
+
+.mainlist li {
+    font-size: 24px;
+    padding: 4px;
+    width: 1200px;
+    font-family: "Cooper Black", sans-serif;
+}
+
+.underlist li {
+    font-size: 15px;
+    padding: 4px;
+    width: 1200px;
+    font-family: "Bookman Old Style", sans-serif;
+
+}
+
+.boxed ul {
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.list h1 {
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: block;
+    max-width: 500px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+
+}
+
+.centerImg {
+    margin: 0 auto;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+

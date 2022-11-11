@@ -102,7 +102,7 @@
     background-image: linear-gradient(to top, #86377b 20%, #27273c 80%);
 }
 
-.backgroundBlue .waveWrapperInner {
+.backgroundCadetBlue .waveWrapperInner {
     background-image: linear-gradient(to top, cadetblue 20%, #27273c 80%);
 }
 
@@ -111,6 +111,9 @@
 }
 .backgroundRed .waveWrapperInner {
     background-image: linear-gradient(to top, red 20%, #27273c 80%);
+}
+.backgroundDarkBlue .waveWrapperInner {
+    background-image: linear-gradient(to top, darkblue 20%, #27273c 80%);
 }
 
 ul a:hover{
