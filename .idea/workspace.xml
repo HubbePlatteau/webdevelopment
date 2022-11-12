@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 7 natur blog en begin homepage">
-      <change afterPath="$PROJECT_DIR$/Labo_7/Homepage/css/homepageStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/developer-bottom-text.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pepe head.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/pepe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/walvis.png" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 7 homepage adjustments NOT DONE">
+      <change afterPath="$PROJECT_DIR$/Labo_7/Kalender/CSS/Kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_7/Kalender/Kalender.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/Images/Hubbe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Hubbe.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/Images/LOTR.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/LOTR.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/Images/PPC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/PPC.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/Homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Homepage/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo_7/Homepage/Homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/Homepage/Homepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/Homepage/css/homepageStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/Homepage/css/homepageStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +76,7 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_6\Opdracht_5\images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.Homepage.html">
     <configuration name="Homepage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_7/Homepage/Homepage.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -102,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Homepage.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.NatureBlog.html" />
-        <item itemvalue="JavaScript Debug.Homepage.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
@@ -140,14 +132,8 @@
       <workItem from="1666869274358" duration="2054000" />
       <workItem from="1668000145797" duration="6701000" />
       <workItem from="1668009720726" duration="1871000" />
-      <workItem from="1668190979651" duration="5101000" />
-    </task>
-    <task id="LOCAL-00006" summary="File structure">
-      <created>1665051498140</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1665051498140</updated>
+      <workItem from="1668190979651" duration="5165000" />
+      <workItem from="1668265807484" duration="4660000" />
     </task>
     <task id="LOCAL-00007" summary="File structure">
       <created>1665052464597</created>
@@ -485,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668005550837</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Labo 7 homepage adjustments NOT DONE">
+      <created>1668196177640</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1668196177641</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,6 +505,7 @@
     <MESSAGE value="labo 6 css" />
     <MESSAGE value="algemene css" />
     <MESSAGE value="Labo 7 natur blog en begin homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Labo 7 natur blog en begin homepage" />
+    <MESSAGE value="Labo 7 homepage adjustments NOT DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labo 7 homepage adjustments NOT DONE" />
   </component>
 </project>
