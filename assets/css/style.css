@@ -116,6 +116,10 @@
     background-image: linear-gradient(to top, darkblue 20%, #27273c 80%);
 }
 
+.backgroundOrange .waveWrapperInner {
+    background-image: linear-gradient(to top, orangered 20%, #27273c 80%);
+}
+
 ul a:hover{
     color: aqua;
     transition: 1.3s;
