@@ -61,12 +61,13 @@ main article p {
     text-align: justify;
     padding: 20px 30px 20px 0;
     margin: 0;
-    
+    overflow: hidden;
 
 }
 
 main article img {
     float: left;
+    padding: 20px;
 }
 
 main article span {
@@ -75,3 +76,56 @@ main article span {
     font-style: italic;
 }
 
+main div img {
+    height: 180px;
+    width: 180px;
+
+}
+
+main div {
+    background-color: #999999;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0px;
+}
+
+.gallery div img {
+    border: 1px dotted #999999;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+    background-color: #666666;
+    color: white;
+    line-height: 2em;
+
+
+}
+
+footer div:nth-child(1) {
+    float: left;
+    padding-left: 120px;
+}
+
+footer div:nth-child(2) {
+    overflow: hidden;
+    padding-left: 120px;
+}
+
+footer a:hover {
+    color: red;
+}
+
+.bottom {
+    text-align: center;
+    color: black;
+}
+
+.topimg {
+    padding-top: 10px;
+}
