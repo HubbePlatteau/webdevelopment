@@ -5,24 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 8 einde">
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/css/Cocktailbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht6/css/lorem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_8/Opdracht7/css/lorem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/Images/flight1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/Images/flight2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/Images/flight3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/Images/flight4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/Styles/Opdracht1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/Styles/Airbus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/A380Grond.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/Britischairways.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/abramovich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/airbus_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/bgsky1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/bgsky2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/bgsky3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/binnen1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/binnen2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/binnen3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/cockpit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/indelucht.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/indelucht2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/pagebackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/pasagiers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/qantas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/tek.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/tekening.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/tekklein.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/Opdracht2/fotos/transport.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/css/Labo_9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_9/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht 8/Opdracht8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/Opdracht 8/Opdracht8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht6/Opdracht6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/Opdracht6/Opdracht6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_8/Opdracht7/Opdracht7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/Opdracht7/Opdracht7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +52,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
@@ -55,23 +74,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment/Labo_8/Opdracht7",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment/Labo_8/Opdracht7&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht7" />
@@ -81,36 +100,36 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht2\Images" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht2" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht1\Images" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht1" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht 8\images" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets\images" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht1" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_7\Kalender" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_7\Opdracht_NatureBlog\images" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Opdracht8.html">
-    <configuration name="Opdracht6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/Opdracht6/Opdracht6.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Opdracht7.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/Opdracht7/Opdracht7.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.airbus.html">
     <configuration name="Opdracht8.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/Opdracht 8/Opdracht8.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="voorbeeld3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/Opdracht1/voorbeeld3.html" useBuiltInWebServerPort="true">
+    <configuration name="airbus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/Opdracht2/airbus.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="voorbeeld4.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/Opdracht1/voorbeeld4.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_8/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/Opdracht1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.airbus.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Opdracht8.html" />
-        <item itemvalue="JavaScript Debug.Opdracht7.html" />
-        <item itemvalue="JavaScript Debug.Opdracht6.html" />
-        <item itemvalue="JavaScript Debug.voorbeeld4.html" />
-        <item itemvalue="JavaScript Debug.voorbeeld3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -152,13 +171,11 @@
       <workItem from="1669197329029" duration="633000" />
       <workItem from="1669209559723" duration="5600000" />
       <workItem from="1669456687751" duration="14111000" />
-    </task>
-    <task id="LOCAL-00012" summary="File structure">
-      <created>1665054329791</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1665054329791</updated>
+      <workItem from="1669544333344" duration="412000" />
+      <workItem from="1669770777606" duration="81000" />
+      <workItem from="1669814559520" duration="6222000" />
+      <workItem from="1669823764980" duration="1276000" />
+      <workItem from="1670068772074" duration="2043000" />
     </task>
     <task id="LOCAL-00013" summary="File structure">
       <created>1665054558907</created>
@@ -496,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669216119276</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Labo 8 einde">
+      <created>1669544383614</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1669544383614</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
