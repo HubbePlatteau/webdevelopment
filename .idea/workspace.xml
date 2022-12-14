@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 9 eind GELIEVE ZELF UW CODE TE CONTROLEREN ALVORENS HET EEN OEFENING TE MAKEN AUB !">
-      <change afterPath="$PROJECT_DIR$/Labo_10/Bootstrap1-2/BootstrapHTML_1-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/Oefening2.3/Oefening.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/Oefening2.3/styles/oef1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_10/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/cat4.jpg" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 10 start">
+      <change afterPath="$PROJECT_DIR$/Labo_11/ExtraOefening/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/ExtraOefening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/css/exercise1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/css/exercise2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/css/exercise3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/exercise3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/css/exercise4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/exercise4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/css/exercise5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/exercise5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/css/exercise6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/exercise6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo_11/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -65,7 +77,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -78,24 +90,24 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht 8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets\images" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_10\Oefening2.3\styles" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht2\Images" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_9\Opdracht2" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\ExtraOefening\css" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\ExtraOefening" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht6\css" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht6" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="BootstrapHTML_1-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/Bootstrap1-2/BootstrapHTML_1-2.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="exercise3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht3/exercise3.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Oefening.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/Oefening2.3/Oefening.html" useBuiltInWebServerPort="true">
+    <configuration name="exercise5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht5/exercise5.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="airbus.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/Opdracht2/airbus.html" useBuiltInWebServerPort="true">
+    <configuration name="exercise6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht6/exercise6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/ExtraOefening/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
@@ -103,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.exercise6.html" />
+        <item itemvalue="JavaScript Debug.exercise5.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.BootstrapHTML_1-2.html" />
-        <item itemvalue="JavaScript Debug.Oefening.html" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.airbus.html" />
+        <item itemvalue="JavaScript Debug.exercise3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -156,14 +168,8 @@
       <workItem from="1670068772074" duration="9254000" />
       <workItem from="1670419732089" duration="3272000" />
       <workItem from="1670423737851" duration="2109000" />
-      <workItem from="1670754580201" duration="2203000" />
-    </task>
-    <task id="LOCAL-00015" summary="File structure">
-      <created>1665155379945</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1665155379945</updated>
+      <workItem from="1670754580201" duration="3116000" />
+      <workItem from="1671023579688" duration="6088000" />
     </task>
     <task id="LOCAL-00016" summary="File structure">
       <created>1665155747554</created>
@@ -501,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670081187925</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Labo 10 start">
+      <created>1670759685180</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1670759685181</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,6 +548,7 @@
     <MESSAGE value="Labo 8 einde" />
     <MESSAGE value="Labo 9 start" />
     <MESSAGE value="Labo 9 eind GELIEVE ZELF UW CODE TE CONTROLEREN ALVORENS HET EEN OEFENING TE MAKEN AUB !" />
-    <option name="LAST_COMMIT_MESSAGE" value="Labo 9 eind GELIEVE ZELF UW CODE TE CONTROLEREN ALVORENS HET EEN OEFENING TE MAKEN AUB !" />
+    <MESSAGE value="Labo 10 start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labo 10 start" />
   </component>
 </project>

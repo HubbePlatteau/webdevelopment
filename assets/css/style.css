@@ -146,6 +146,10 @@
     background-image: linear-gradient(to top, white 20%, #27273c 80%);
 }
 
+.backgroundBrown .waveWrapperInner {
+    background-image: linear-gradient(to top, saddlebrown 20%, #27273c 80%);
+}
+
 ul a:hover {
     color: aqua;
     transition: 1.3s;
