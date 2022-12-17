@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 11 end">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="trying mobile version">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,14 +147,7 @@
       <workItem from="1670423737851" duration="2109000" />
       <workItem from="1670754580201" duration="3116000" />
       <workItem from="1671023579688" duration="6152000" />
-      <workItem from="1671288773689" duration="638000" />
-    </task>
-    <task id="LOCAL-00017" summary="File structure">
-      <created>1665155874202</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1665155874202</updated>
+      <workItem from="1671288773689" duration="981000" />
     </task>
     <task id="LOCAL-00018" summary="File structure">
       <created>1665156265591</created>
@@ -493,7 +485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671029780067</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="trying mobile version">
+      <created>1671289501795</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1671289501796</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -529,6 +528,7 @@
     <MESSAGE value="Labo 9 eind GELIEVE ZELF UW CODE TE CONTROLEREN ALVORENS HET EEN OEFENING TE MAKEN AUB !" />
     <MESSAGE value="Labo 10 start" />
     <MESSAGE value="Labo 11 end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Labo 11 end" />
+    <MESSAGE value="trying mobile version" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying mobile version" />
   </component>
 </project>
