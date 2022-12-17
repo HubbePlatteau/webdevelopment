@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 10 start">
-      <change afterPath="$PROJECT_DIR$/Labo_11/ExtraOefening/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/ExtraOefening/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/css/exercise1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht1/exercise1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/css/exercise2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht2/exercise2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/css/exercise3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht3/exercise3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/css/exercise4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht4/exercise4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/css/exercise5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht5/exercise5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/css/exercise6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/Opdracht6/exercise6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_11/index.html" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Labo 11 end">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +75,8 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
-    <configuration name="exercise3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht3/exercise3.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise5.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht5/exercise5.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Oefening.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/Oefening2.3/Oefening.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="exercise6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/Opdracht6/exercise6.html" useBuiltInWebServerPort="true">
@@ -110,16 +85,19 @@
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/ExtraOefening/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/Opdracht1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Oefening.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.exercise6.html" />
-        <item itemvalue="JavaScript Debug.exercise5.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.exercise3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -169,14 +147,8 @@
       <workItem from="1670419732089" duration="3272000" />
       <workItem from="1670423737851" duration="2109000" />
       <workItem from="1670754580201" duration="3116000" />
-      <workItem from="1671023579688" duration="6088000" />
-    </task>
-    <task id="LOCAL-00016" summary="File structure">
-      <created>1665155747554</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665155747554</updated>
+      <workItem from="1671023579688" duration="6152000" />
+      <workItem from="1671288773689" duration="638000" />
     </task>
     <task id="LOCAL-00017" summary="File structure">
       <created>1665155874202</created>
@@ -514,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670759685181</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Labo 11 end">
+      <created>1671029780066</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1671029780067</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,6 +528,7 @@
     <MESSAGE value="Labo 9 start" />
     <MESSAGE value="Labo 9 eind GELIEVE ZELF UW CODE TE CONTROLEREN ALVORENS HET EEN OEFENING TE MAKEN AUB !" />
     <MESSAGE value="Labo 10 start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Labo 10 start" />
+    <MESSAGE value="Labo 11 end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labo 11 end" />
   </component>
 </project>
