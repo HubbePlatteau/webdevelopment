@@ -150,6 +150,15 @@
     background-image: linear-gradient(to top, saddlebrown 20%, #27273c 80%);
 }
 
+.backgroundLimeGreen .waveWrapperInner {
+    background-image: linear-gradient(to top, limegreen 20%, #27273c 80%);
+}
+
+.backgroundYellow .waveWrapperInner {
+    background-image: linear-gradient(to top, yellow 20%, #27273c 80%);
+}
+
+
 ul a:hover {
     color: aqua;
     transition: 1.3s;
@@ -332,6 +341,14 @@ a {
 
     .backgroundBrown .waveWrapperInner {
         background-image: linear-gradient(to top, saddlebrown 20%, #27273c 80%);
+    }
+
+    .backgroundLimeGreen .waveWrapperInner {
+        background-image: linear-gradient(to top, limegreen 20%, #27273c 80%);
+    }
+
+    .backgroundYellow .waveWrapperInner {
+        background-image: linear-gradient(to top, yellow 20%, #27273c 80%);
     }
 
     ul a:hover {
