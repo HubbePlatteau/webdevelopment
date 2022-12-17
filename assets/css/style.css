@@ -2,12 +2,12 @@
 
 .cirkel {
 
-    height: 125px;
-    width: 125px;
+    height: 30px;
+    width: 30px;
     border-radius: 50%;
     position: absolute;
     bottom: 2px;
-    left: 25px;
+    left: 10px;
     z-index: 2;
     background-image: linear-gradient(to top, red, yellow);
 }
@@ -170,8 +170,8 @@ h1 {
 ul {
     display: flex;
     flex-direction: column;
-    gap: 1.4rem;
-    height: 500px;
+    gap: 15px;
+    height: 300px;
     color: white;
 }
 
