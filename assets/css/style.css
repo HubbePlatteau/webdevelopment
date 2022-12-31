@@ -192,6 +192,10 @@ a {
     font-size: 25px;
 }
 
+.HomeButton {
+    align-items: center;
+}
+
 @media (min-width: 992px) {
     .cirkel {
 

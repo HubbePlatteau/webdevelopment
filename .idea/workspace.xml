@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="trying mobile version">
+      <change beforePath="$PROJECT_DIR$/.idea/webdevelopment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webdevelopment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo_11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +78,11 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="Oefening.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/Oefening2.3/Oefening.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_9/Opdracht1/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/index.html" useBuiltInWebServerPort="true">
@@ -93,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.Oefening.html" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +153,13 @@
       <workItem from="1671023579688" duration="6152000" />
       <workItem from="1671288773689" duration="3397000" />
       <workItem from="1671294048199" duration="453000" />
+      <workItem from="1671473690563" duration="73000" />
+      <workItem from="1671537955833" duration="595000" />
+      <workItem from="1671809575479" duration="5000" />
+      <workItem from="1672070741601" duration="107000" />
+      <workItem from="1672357050558" duration="285000" />
+      <workItem from="1672407581916" duration="432000" />
+      <workItem from="1672476437839" duration="3709000" />
     </task>
     <task id="LOCAL-00027" summary="File structure">
       <created>1665161572189</created>
