@@ -192,9 +192,72 @@ a {
     font-size: 25px;
 }
 
-.HomeButton {
-    align-items: center;
+.button1 {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+    border: solid 2px gray;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
 }
+
+.button1:hover {
+    color: aqua
+}
+
+.button1:active {
+    background-color: transparent;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.button2 {
+    margin: 4px;
+    margin-bottom: 16px;
+    justify-content: center;
+    padding: 15px 25px;
+    font-size: 24px;
+    font-family: monospace;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: transparent;
+    border: solid 2px gray;
+    border-radius: 15px;
+
+}
+
+.button2:hover {
+    color: aqua
+}
+
+.button2:active {
+    background-color: grey;
+}
+
+.BovenKnoppenMain {
+    display: flex;
+    justify-content: center;
+    margin-inside: 2px;
+}
+
+.button-selected {
+    background-color: grey;
+}
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
 
 @media (min-width: 992px) {
     .cirkel {
@@ -203,7 +266,7 @@ a {
         width: 250px;
         border-radius: 50%;
         position: absolute;
-        bottom: 2px;
+        bottom: 80px;
         left: 50px;
         z-index: 2;
         background-image: linear-gradient(to top, red, yellow);
@@ -386,5 +449,52 @@ a {
         color: white;
         font-family: monospace;
         font-size: 25px;
+    }
+
+    .button1 {
+        display: inline-block;
+        padding: 15px 25px;
+        font-size: 24px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        color: #fff;
+        background-color: transparent;
+        border: solid 2px gray;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+    }
+
+    .button1:hover {
+        color: aqua
+    }
+
+    .button1:active {
+        background-color: transparent;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+    }
+
+    .button2 {
+        margin: 4px;
+        margin-bottom: 16px;
+        padding: 15px 25px;
+
+
+    }
+
+    .button2:hover {
+        color: aqua
+    }
+
+    .button2:active {
+        background-color: gray;
+    }
+
+    .BovenKnoppenMain {
+        display: flex;
+        justify-content: center;
+        margin-inside: 2px;
     }
 }
