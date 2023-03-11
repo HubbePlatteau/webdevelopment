@@ -4,19 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="poging tot bootstrap op Labo 11">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Java.js" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="Mainpage voorbereid op Semester2 en Home knop">
+      <change afterPath="$PROJECT_DIR$/Extra_oefeningen/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_oefeningen/css/kitchen_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_oefeningen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extra_oefeningen/kitchen/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/Documentation/docu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/ManVanAN/ManVanAn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/Opdracht2/Opdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/css/ManVanAn.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/css/Opdracht2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/javascript/ManVanAn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/javascript/Opdracht2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/S2_Labo_4/javascript/javaS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/bbq.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/burger.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/food9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/headerimage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/kitchen/mediterranean.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_8/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo_9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Java.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Java.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -28,9 +45,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,25 +72,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment/Labo_10/Oefening2.3",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hubbe/Desktop/IT/Web Development/Github/webdevelopment&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_10\Oefening2.3" />
@@ -83,21 +100,18 @@
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_8\Opdracht 8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Extra_oefeningen\css" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Extra_oefeningen\kitchen" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets\images\kitchen" />
+      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\assets\images" />
       <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\ExtraOefening\css" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\ExtraOefening" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht6\css" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht6" />
-      <recent name="C:\Users\hubbe\Desktop\IT\Web Development\Github\webdevelopment\Labo_11\Opdracht5" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
-    <configuration name="Oefening.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_10/Oefening2.3/Oefening.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/ExtraOefening/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo_11/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 4/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/S2_Labo_4/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Labo 3/index.html" useBuiltInWebServerPort="true">
@@ -106,13 +120,16 @@
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="start.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webdevelopment/Extra_oefeningen/kitchen/start.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (4)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.Oefening.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.start.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -171,14 +188,18 @@
       <workItem from="1672070741601" duration="107000" />
       <workItem from="1672357050558" duration="285000" />
       <workItem from="1672407581916" duration="432000" />
-      <workItem from="1672476437839" duration="14195000" />
-    </task>
-    <task id="LOCAL-00028" summary="File structure">
-      <created>1665162222112</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1665162222112</updated>
+      <workItem from="1672476437839" duration="16054000" />
+      <workItem from="1673021902640" duration="146000" />
+      <workItem from="1673869777757" duration="1693000" />
+      <workItem from="1673881136458" duration="595000" />
+      <workItem from="1673956955780" duration="6492000" />
+      <workItem from="1673972820998" duration="2203000" />
+      <workItem from="1673991857323" duration="2657000" />
+      <workItem from="1673994803408" duration="10000" />
+      <workItem from="1674027177031" duration="33000" />
+      <workItem from="1676666159939" duration="370000" />
+      <workItem from="1678372427106" duration="1843000" />
+      <workItem from="1678532535939" duration="4924000" />
     </task>
     <task id="LOCAL-00029" summary="File structure">
       <created>1665162260018</created>
@@ -516,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672483411717</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Mainpage voorbereid op Semester2 en Home knop">
+      <created>1672500233645</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1672500233645</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,6 +582,7 @@
     <MESSAGE value="Labo 11 end" />
     <MESSAGE value="trying mobile version" />
     <MESSAGE value="poging tot bootstrap op Labo 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="poging tot bootstrap op Labo 11" />
+    <MESSAGE value="Mainpage voorbereid op Semester2 en Home knop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mainpage voorbereid op Semester2 en Home knop" />
   </component>
 </project>
