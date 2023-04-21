@@ -1,0 +1,18 @@
+#playField {
+    height: 600px;
+    width: 800px;
+    border: black solid 3px;
+/ / aanvullen met hoogte en breedte
+}
+
+#knop {
+    border: black solid 1px;
+    float: left;
+
+}
+
+#image {
+    left: 50px;
+    top: 50px;
+    position: absolute;
+}

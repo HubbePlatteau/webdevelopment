@@ -166,6 +166,14 @@
     background-image: linear-gradient(to top, #8B8C7A 20%, #27273c 80%);
 }
 
+.backgroundIvory .waveWrapperInner {
+    background-image: linear-gradient(to top, #E1CC4F 20%, #27273c 80%);
+}
+
+.backgroundBrightOrange .waveWrapperInner {
+    background-image: linear-gradient(to top, #FFA420 20%, #27273c 80%);
+}
+
 ul a:hover {
     color: aqua;
     transition: 1.3s;
@@ -470,6 +478,14 @@ a {
 
     .backgroundStoneGrey .waveWrapperInner {
         background-image: linear-gradient(to top, #8B8C7A 20%, #27273c 80%);
+    }
+
+    .backgroundIvory .waveWrapperInner {
+        background-image: linear-gradient(to top, #E1CC4F 20%, #27273c 80%);
+    }
+
+    .backgroundBrightOrange .waveWrapperInner {
+        background-image: linear-gradient(to top, #FFA420 20%, #27273c 80%);
     }
 
     ul a:hover {
