@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="labo 4 s2">
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/HitanObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo_20/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/Opdracht 2/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/opdracht 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S2_Labo_8/opdracht 1/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Dice roller/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Dice roller/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Dice roller/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Verjaardag counter/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Verjaardag counter/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/Verjaardag counter/script/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZTEST/index.html" afterDir="false" />
+    <list default="true" id="a827d205-41c3-460d-a3c8-09fe9ed0c9a5" name="Changes" comment="nieuwe additions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,14 +177,8 @@
       <workItem from="1681643576614" duration="904000" />
       <workItem from="1681907029981" duration="8557000" />
       <workItem from="1681935110271" duration="6869000" />
-      <workItem from="1682029825954" duration="4691000" />
-    </task>
-    <task id="LOCAL-00030" summary="File structure">
-      <created>1665165969880</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1665165969880</updated>
+      <workItem from="1682029825954" duration="4714000" />
+      <workItem from="1682080233639" duration="724000" />
     </task>
     <task id="LOCAL-00031" summary="File structure">
       <created>1665166081930</created>
@@ -546,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678542132596</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="nieuwe additions">
+      <created>1682079492687</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1682079492687</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,6 +563,7 @@
     <MESSAGE value="poging tot bootstrap op Labo 11" />
     <MESSAGE value="Mainpage voorbereid op Semester2 en Home knop" />
     <MESSAGE value="labo 4 s2" />
-    <option name="LAST_COMMIT_MESSAGE" value="labo 4 s2" />
+    <MESSAGE value="nieuwe additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="nieuwe additions" />
   </component>
 </project>
